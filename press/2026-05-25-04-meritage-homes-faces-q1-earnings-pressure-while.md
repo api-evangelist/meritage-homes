@@ -1,7 +1,9 @@
 ---
 title: Meritage Homes Faces Q1 Earnings Pressure While ...
 url: https://simplywall.st/stocks/us/consumer-durables/nyse-mth/meritage-homes/news/meritage-homes-faces-q1-earnings-pressure-while-supporting-s
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Meritage Homes" press release artificial intelligence'
 position: 4
 source: serpapi-google
